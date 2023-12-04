@@ -1,1 +1,2 @@
 # Mall-Customer-Segmentation
+Customer segmentation is a separation of a market into multiple distinct groups of consumers who share similar characteristics. In order to allow the marketing team to plan the strategy to market the new products to the target customers which are similar to their interests, we can use unsupervised machine learning techniques like K-Means Clustering Algorithm, Minibatch K-Means and Hierarchical Clustering etc.
